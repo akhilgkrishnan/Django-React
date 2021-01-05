@@ -123,3 +123,4 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS =[os.path.join(BASE_DIR, 'todo/static')]
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'

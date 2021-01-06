@@ -25,7 +25,7 @@ SECRET_KEY = '$_83qdzyo-&-rb=5dit@)a-i^dt(p8wxzvtbf%zd-8ip2kq$ca'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['reactdjangotodo.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition

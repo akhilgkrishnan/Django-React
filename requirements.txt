@@ -6,3 +6,4 @@ sqlparse==0.4.1
 whitenoise
 django-heroku
 gunicorn
+psycopg2-binary

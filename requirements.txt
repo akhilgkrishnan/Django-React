@@ -4,4 +4,5 @@ django-crispy-forms==1.10.0
 pytz==2020.5
 sqlparse==0.4.1
 whitenoise
-django_heroku
+django-heroku
+gunicorn
